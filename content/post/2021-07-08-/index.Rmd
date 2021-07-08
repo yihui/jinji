@@ -5,7 +5,7 @@ date: '2021-07-08'
 cover: post/2021-07-08-/images/profile.jpg
 slug: ''
 categories:
-  - Blog
+  - 2021
 tags: []
 ---
 
