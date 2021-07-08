@@ -17,4 +17,4 @@ title: About Jinji
 再说个缺（优）点吧，我非常注重个人形象，不论是自己还是家里，我都很讨厌邋遢、不修边幅。
 
 
-![Jinji](https://github.com/JinjiPang/kimki/blob/7b798616d8c6cff602d5b30e473963a5e0cb8dc2/profile.jpg)
+![Jinji](https://github.com/JinjiPang/kimki/raw/main/profile.jpg)
