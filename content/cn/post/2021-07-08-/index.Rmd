@@ -13,4 +13,4 @@ tags: []
 又是不想工作，只想摸鱼的一天。
 
 
-![selfie](images/profile.jpg)
+![selfie](https://raw.githubusercontent.com/JinjiPang/kimki/main/profile.jpg)
