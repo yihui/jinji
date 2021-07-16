@@ -14,20 +14,65 @@ permalinks:
 
 menu:
   main:
+    - name: "About"
+      url: "/en/about/"
+      weight: 1
+    - name: "Blog"
+      url: "/en/"
+      weight: 2
+    - name: "关于"
+      url: "/cn/about/"
+      weight: 3
+    - name: "日志"
+      url: "/cn/"
+      weight: 4
+  en:
     - name: "Home"
       url: "/"
       weight: 1
     - name: "About"
-      url: "/about/"
+      url: "/en/about/"
       weight: 2
-    - name: "Categories"
-      url: "/categories/"
+    - name: "Blog"
+      url: "/en/"
       weight: 3
-    - name: "Tags"
-      url: "/tags/"
+    - name: "Vitae"
+      url: "/en/vitae/"
       weight: 4
-    - name: "Subscribe"
-      url: "/index.xml"
+    - name: "中文"
+      url: "/cn/"
+      weight: 5
+  cn:
+    - name: "首页"
+      url: "/"
+      weight: 1
+    - name: "关于"
+      url: "/cn/about/"
+      weight: 2
+    - name: "日志"
+      url: "/cn/"
+      weight: 3
+    - name: "简历"
+      url: "/cn/vitae/"
+      weight: 4
+    - name: "菜谱"
+      url: "/cn/recipe/"
+      weight: 5
+    - name: "English"
+      url: "/en/"
+      weight: 6
+
+
+
+
+
+
+
+
+
+
+
+
 
 params:
   description: "Welcome to Jinji's planet."

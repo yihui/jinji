@@ -2,6 +2,7 @@
 author: Jinji
 date: "2021-07-05"
 title: About Jinji
+slug: "cn/about"
 ---
 
 <div align='center' ><font size='18'>自我认识</font></div>
