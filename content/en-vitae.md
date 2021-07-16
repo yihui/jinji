@@ -9,11 +9,15 @@ slug: "en/vitae"
 
 ## Contact Information
 
-Email: kimkipang@gmail.com; Homepage: <https://jinjipang.com>; Twitter [@JinjiPang](https://twitter.com/JinjiPang).
+Email: kimkipang@gmail.com; 
+
+Homepage: <https://jinjipang.com>; 
+
+Twitter [@JinjiPang](https://twitter.com/JinjiPang).
 
 ## Brief Biography
 
-- Hometown, Jinlin Province, Tonghua City,China 
+- Hometown, Jilin Province, Tonghua City,China 
 
 
 ## Education Background
