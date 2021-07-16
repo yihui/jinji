@@ -1,11 +1,9 @@
 ---
-author: Jinji
+author: 金吉
 date: "2021-07-05"
-title: About Jinji
+title: 自我认识
 slug: "cn/about"
 ---
-
-<div align='center' ><font size='18'>自我认识</font></div>
 
 我是一名学生，74%的人生都在以这个身份度过，并且还在进行中。我想这个百分比还会缓慢的增长，直到无限接近于1，如果我能活得那么长久的话。我生来就好奇心重，想要学习我感兴趣的一切。我是一个无神论者，但是我又相信命中注定。
 
@@ -17,5 +15,3 @@ slug: "cn/about"
 
 再说个缺（优）点吧，我非常注重个人形象，不论是自己还是家里，我都很讨厌邋遢、不修边幅。
 
-
-![Jinji](https://github.com/JinjiPang/kimki/raw/main/profile.jpg)
