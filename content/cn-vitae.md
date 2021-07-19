@@ -41,7 +41,7 @@ Email：kimkipang@gmail.com；
 
 1. 2017 夏季，爱荷华州立大学 兽医学院（指导：张启敬教授）
 2. 2017 春季，奥特奇 爱尔兰中心，Clonakilty Agricultural College
-3. 2016 夏季，奥特奇 北京中心
+3. 2016 夏季，利拉伐 北京中心
 
 
 
