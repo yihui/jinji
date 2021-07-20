@@ -5,8 +5,11 @@ theme: "hugo-ivy"
 googleAnalytics: ""
 disqusShortname: "jinjipang"
 ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
+hasCJKLanguage: true
 preserveTaxonomyNames: true
 footnotereturnlinkcontents: ↩
+rssLimit: 100
+
 
 permalinks:
   note: /note/:year/:month/:day/:slug/
@@ -82,6 +85,26 @@ params:
   highlightjsTheme: "github"
   highlightjsVersion: "9.12.0"
   disqusURL: "https://jinjipang.com"
+  customJS:
+    - "js/fix-toc.js"
+    - "js/center-img.js"
+    - "js/right-quote.js"
+    - "js/no-highlight.js"
+    - "js/fix-footnote.js"
+    - "js/math-code.js"
+    - "js/external-link.js"
+    - "js/alt-title.js"
+    - "js/header-link.js"
+  author:
+    en: "Kimki"
+    cn: "金吉"
+  
+  
+blackfriday:
+    extensionsmask: ["noIntraEmphasis"]
+    fractions: false
+
+  
 
 markup:
   goldmark:
