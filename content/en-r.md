@@ -17,7 +17,7 @@ library(RColorBrewer)
 nb.cols <- 13
 mycolors <- colorRampPalette(brewer.pal(12, "Set3"))(nb.cols)
 # Set3 has 12 colors
-# Create a ggplot with 18 colors 
+# Create a ggplot with 13 colors 
 # Use scale_fill_manual
 plot<-ggplot(df, aes(x = x var, y = y var, fill = some factor)) + 
   geom_bar(stat = "identity")+ylab("YY")+
