@@ -1,0 +1,20 @@
+---
+title: Alpha Diversity
+author: Kimki
+date: '2021-07-28'
+slug: alpha-diversity
+categories:
+  - '2021'
+tags: []
+---
+
+## Alpha Diversity
+
+
+#### Observed Features
+
+
+#### Evenness
+
+
+#### Phylogenetic Diversity

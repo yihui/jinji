@@ -45,9 +45,12 @@ menu:
     - name: "R"
       url: "/en/r/"
       weight: 5 
+    - name: "VMPM & STAT"
+      url: "/vmpm/"
+      weight: 6 
     - name: "中文"
       url: "/cn/"
-      weight: 6
+      weight: 7
   cn:
     - name: "首页"
       url: "/"
