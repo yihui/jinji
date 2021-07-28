@@ -14,15 +14,17 @@ slug: "en/r"
 ```r
 library(RColorBrewer)
 # Define the number of colors you want
-nb.cols <- 18
-mycolors <- colorRampPalette(brewer.pal(8, "Set2"))(nb.cols)
+nb.cols <- 13
+mycolors <- colorRampPalette(brewer.pal(12, "Set3"))(nb.cols)
+# Set3 has 12 colors
 # Create a ggplot with 18 colors 
 # Use scale_fill_manual
-ggplot(df) + 
-  geom_col(aes(name, Sepal.Length, fill = factor(Sepal.Length))) +
-  scale_fill_manual(values = mycolors) +
-  theme_minimal() +
-  theme(legend.position = "top")
+plot<-ggplot(df, aes(x = x var, y = y var, fill = some factor)) + 
+  geom_bar(stat = "identity")+ylab("YY")+
+  theme(axis.text.x = element_text(angle = 90))+
+  theme(axis.title.x = element_blank())+
+  scale_fill_manual(values =mycolors)
+
 ```
 
 
@@ -33,7 +35,7 @@ ggplot(df) +
 - change legend size
 
 ```r
-ggplot(data, aes(x=x, y=y)) +
+ggplot(df, aes(x=x var, y=y var)) +
   theme(legend.key.size = unit(1, 'cm'), #change legend key size
         legend.key.height = unit(1, 'cm'), #change legend key height
         legend.key.width = unit(1, 'cm'), #change legend key width
