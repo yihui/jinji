@@ -5,6 +5,10 @@ title: R Language Notes
 slug: "en/r"
 ---
 
+## Disclaimer 
+> To save my time finding codes(since I can't remember all of them), I made some notes here. These codes were all from online resources and I might have made some adjustments or might not. Copyright belongs to the original author, please inform site owner if any infringement. 
+
+
 # C
 
 ## Color
