@@ -42,9 +42,12 @@ menu:
     - name: "Vitae"
       url: "/en/vitae/"
       weight: 4
+    - name: "R"
+      url: "/en/r/"
+      weight: 5 
     - name: "中文"
       url: "/cn/"
-      weight: 5
+      weight: 6
   cn:
     - name: "首页"
       url: "/"
