@@ -1,23 +1,25 @@
 ---
-author: Jinji
+author: Kimki
 date: "2021-07-05"
 title: Curriculum Vitae
 slug: "en/vitae"
 ---
 
-# Jinji(Kimki) Pang
-
 ## Contact Information
 
-Email: kimkipang@gmail.com; 
+- Email: kimkipang@gmail.com; 
 
-Homepage: <https://jinjipang.com>; 
+- Homepage: <https://jinjipang.com>; 
 
-Twitter [@JinjiPang](https://twitter.com/JinjiPang).
+- Twitter [@JinjiPang](https://twitter.com/JinjiPang).
 
 ## Brief Biography
 
-- Hometown, Jilin Province, Tonghua City,China 
+- Name: Jinji Pang
+
+- English name: Kimki
+
+- Hometown: Jilin Province, Tonghua City, China 
 
 
 ## Education Background
@@ -29,10 +31,10 @@ Twitter [@JinjiPang](https://twitter.com/JinjiPang).
 
 ## Intern
 
-- One Health program–Iowa State University, USA, 06/2017 – 08/2017
+- One Health program, Iowa State University, USA, 06/2017 - 08/2017
 
 
-- Elite Cattlemen Program–Clonakilty Agricultural University, Ireland, 01/2017– 03/2017
+- Elite Cattlemen Program, Clonakilty Agricultural University, Ireland, 01/2017- 03/2017
  
 
 - Delaval-ECP Summer Intern Program, Beijing & Tianjin & Shandong & Shenyang, China, 07/2016– 08/2016
@@ -61,6 +63,10 @@ Twitter [@JinjiPang](https://twitter.com/JinjiPang).
 
 - Team member of CVM Women's basketball team, 2014-2016
 
+- Team member of CVM Women's volleyball team, 2014-2018
+
+- Team member of CVM  pingpong team, 2015
+
 - Volunteer at Office of Academic Affairs, CVM, 08/2016-12/2016                                                  
 - Fei Yang Folk Music Club, CAU, 2013-2016   
 
@@ -75,9 +81,11 @@ Twitter [@JinjiPang](https://twitter.com/JinjiPang).
 ## Hobby
 
 - Traditional Chinese folk music
+- Chinese calligraphy
 - Martial arts: Taekwondo, Judo, Hapkido
 - Snowboarding and skiing
-- Chinese calligraphy
+
+
 
 
 ## Publications
@@ -86,7 +94,7 @@ Twitter [@JinjiPang](https://twitter.com/JinjiPang).
 
 - [JJ Pang, XJ Bai, SQ Chen, WY Jiang, ZX Wang, J Cao. The effect of monochromatic green light on melatonin synthesis in chick embryo. - Acta Veterinaria et Zootechnica Sinica, 2017](https://www.cabdirect.org/cabdirect/abstract/20173212597)
 
-- [Co-authored](https://www.researchgate.net/profile/Jinji-Pang) publications please check researchgate. 
+- [Co-Authored](https://www.researchgate.net/profile/Jinji-Pang) publications please check researchgate. 
 
 
 
