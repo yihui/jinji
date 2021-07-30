@@ -31,10 +31,10 @@ slug: "en/vitae"
 
 ## Intern
 
-- One Health program, Iowa State University, USA, 06/2017 - 08/2017
+- One Health Program, Iowa State University, USA, 06/2017 - 08/2017
 
 
-- Elite Cattlemen Program, Clonakilty Agricultural University, Ireland, 01/2017- 03/2017
+- Alltech-ECP Intern Program, Clonakilty Agricultural University, Ireland, 01/2017- 03/2017
  
 
 - Delaval-ECP Summer Intern Program, Beijing & Tianjin & Shandong & Shenyang, China, 07/2016– 08/2016
@@ -50,7 +50,8 @@ slug: "en/vitae"
 - 2017 Dubai Equine Scholarship, 2018                                                                                                  
 - 1st Class Scholarship for Outstanding Students, CAU (5%), 2017                                                    
 - Cultural Activity Scholarship, CAU, 2017                                                                                             
-- Beijing College Students, Music Festival, Gold Award, Traditional Music, 2016                           
+- Beijing College Students Music Festival, Gold Award,  2016 
+
 - Merit Students, CAU (10%), 2014-2016                                                                                                 
 - Outstanding Student Leaders, CAU (5%), 2014-2016
 
