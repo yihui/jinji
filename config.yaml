@@ -116,3 +116,15 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+      
+<script
+  async
+  src="https://utteranc.es/client.js"
+  repo="JinjiPang/jinji"
+  issue-term="title"
+  theme="github-light"
+  crossorigin="anonymous"
+></script>
+
+
+
