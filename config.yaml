@@ -117,13 +117,13 @@ markup:
     renderer:
       unsafe: true
       
-async:
+
+
+params.utteranc:
   src="https://utteranc.es/client.js"
-  repo="JinjiPang/jinji"
-  issue-term="title"
-  theme="github-light"
+  enable = true
+  repo = "JinjiPang/jinji" 
+  issueTerm = "pathname"
+  theme = "github-light"
   crossorigin="anonymous"
-
-
-
 
