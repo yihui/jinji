@@ -119,11 +119,4 @@ markup:
       
 
 
-params.utteranc:
-  src="https://utteranc.es/client.js"
-  enable = true
-  repo = "JinjiPang/jinji" 
-  issueTerm = "pathname"
-  theme = "github-light"
-  crossorigin="anonymous"
 
