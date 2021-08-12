@@ -117,14 +117,13 @@ markup:
     renderer:
       unsafe: true
       
-<script
-  async
+async:
   src="https://utteranc.es/client.js"
   repo="JinjiPang/jinji"
   issue-term="title"
   theme="github-light"
   crossorigin="anonymous"
-></script>
+
 
 
 
