@@ -16,7 +16,7 @@ tags: []
 
 ![](https://raw.githubusercontent.com/JinjiPang/jinji/main/pictures/snowboard.jpg)
 
-![](images/ski.jpg)
+![](https://raw.githubusercontent.com/JinjiPang/jinji/main/content/cn/2021-12-23-/images/ski.jpg)
 
 
 
