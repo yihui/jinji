@@ -1,5 +1,5 @@
 ---
-title: Endless pain comes from ignorance
+title: Endless Pain Comes from Ignorance
 author: Kimki
 date: '2022-04-07'
 slug: endless-pain-comes-from-ignorance
