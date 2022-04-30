@@ -33,6 +33,9 @@ slug: "en/martial arts vitae"
 
 #### Taekwondo
 
+- 1st Grade Red Belt, USA, March 28, 2022
+
+
 - 2nd Grade Brown Belt, USA, May 3, 2021
 
 
