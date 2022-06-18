@@ -5,6 +5,10 @@ title: Curriculum Vitae
 slug: "en/vitae"
 ---
 
+## [A more detailed version of my CV](/pdf/Jinji-CV.pdf)
+
+![plates](/img/plates.png)
+
 ## Contact Information
 
 - Email: kimkipang@gmail.com; 
