@@ -85,7 +85,7 @@ menu:
 
 params:
   description: "Welcome to Jinji's planet."
-  footer: "&copy; [Jinji](https://jinjipang.com) 2022 | [Github](https://github.com/JinjiPang) | [Twitter](https://twitter.com/PangKimki)"
+  footer: "&copy; [Jinji](https://jinjipang.com) 2022 | [Github](https://github.com/JinjiPang) | [Twitter](https://twitter.com/PangKimki)|[Subscribe](https://jinjipang.com/index.xml)"
   highlightjsCDN: "//cdn.bootcss.com"
   highlightjsLang: ["r", "yaml", "tex"]
   highlightjsTheme: "github"
