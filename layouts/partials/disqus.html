@@ -25,6 +25,7 @@
 </section>
 {{ end }}
 
+{{ if not .IsSection }}
 <script src="https://utteranc.es/client.js"
         repo="JinjiPang/jinji"
         issue-term="pathname"
@@ -33,3 +34,4 @@
         crossorigin="anonymous"
         async>
 </script>
+{{ end }}
