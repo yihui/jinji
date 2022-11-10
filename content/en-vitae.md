@@ -28,8 +28,12 @@ slug: "en/vitae"
 
 ## Education Background
 
-- 2018 ~ 202X, Ph.D. student, Department of Veterinary Microbiology and Preventive Medicine; Master student, Department of Statistics, Iowa State University
+- 2018 ~ 202X, Ph.D. candidate, Department of Veterinary Microbiology and Preventive Medicine; 
+
+- 2020.08 ~  2022.12 Master, Department of Statistics, Iowa State University
+
 - 2013 ~ 2018, Bachelor of Veterinary Medicine, Veterinary Medicine College, China Agricultural University
+
 - 2015 ~ 2016, exchange student, College of Veterinary Medicine, National Chung Hsing University
 
 
