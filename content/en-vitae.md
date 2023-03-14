@@ -23,18 +23,16 @@ slug: "en/vitae"
 
 - English name: Kimki
 
-- Hometown: Jilin Province, Tonghua City, China 
-
 
 ## Education Background
 
-- 2018 ~ 202X, Ph.D. candidate, Department of Veterinary Microbiology and Preventive Medicine; 
+- 2018.08 ~ 202X, Ph.D. candidate, Department of Veterinary Microbiology and Preventive Medicine; 
 
 - 2020.08 ~  2022.12 Master, Department of Statistics, Iowa State University
 
-- 2013 ~ 2018, Bachelor of Veterinary Medicine, Veterinary Medicine College, China Agricultural University
+- 2013.08 ~ 2018.06, Bachelor of Veterinary Medicine, Veterinary Medicine College, China Agricultural University
 
-- 2015 ~ 2016, exchange student, College of Veterinary Medicine, National Chung Hsing University
+- 2015.08 ~ 2016.01, exchange student, College of Veterinary Medicine, National Chung Hsing University
 
 
 ## Intern
@@ -48,7 +46,11 @@ slug: "en/vitae"
 - Delaval-ECP Summer Intern Program, Beijing & Tianjin & Shandong & Shenyang, China, 07/2016– 08/2016
 
 
-## Honors
+## Honors & Awards
+
+- Graduate Student Travel Award, ISU CVM, 2021-2023
+
+- Professional Advancement Grants, Graduate and Professional Student Senate, 2021, 2022.
 
 - Finalist of 3MT Thesis Competition, ISU Graduate College, 2019 
 
@@ -65,6 +67,8 @@ slug: "en/vitae"
 
 
 ## Social Activity
+
+- Vice president of College of Veterinary Medicine Association of Graduate Students (CVMAGS), ISU, 2021-2022
 
 - Secretary of Martial Arts Club, ISU, 2020-2021
 
@@ -86,14 +90,13 @@ slug: "en/vitae"
 
 
 
-
 ## Hobby
 
 - Traditional Chinese folk music
 - Chinese calligraphy
-- Martial arts: Taekwondo, Judo, Hapkido
+- Martial arts: Taekwondo
 - Snowboarding and skiing
-
+- Piano
 
 
 
