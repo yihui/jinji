@@ -1,36 +1,17 @@
-{{ if and (not (eq .Site.DisqusShortname "")) (not .Params.disable_comments) }}
-<section class="comments">
-  <div id="disqus_thread"></div>
-  <script>
-  var disqus_config = function () {
-  {{ with .Site.Params.disqusURL }}
-    this.page.url = "{{ . }}" + {{ if eq $.Type "404" }} "/404.html" {{ else }} location.pathname{{ end }};
-  {{ end }}
-  };
-  (function() {
-    var inIFrame = function() {
-      var iframe = true;
-      try { iframe = window.self !== window.top; } catch (e) {}
-      return iframe;
-    };
-    if (inIFrame()) return;
-    var disqus_js = '//{{ .Site.DisqusShortname }}.disqus.com/embed.js';
-    var d = document, s = d.createElement('script');
-    s.src = disqus_js; s.async = true;
-    s.setAttribute('data-timestamp', +new Date());
-    (d.head || d.body).appendChild(s);
-  })();
-  </script>
-  <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-</section>
-{{ end }}
-
 {{ if not .IsSection }}
-<script src="https://utteranc.es/client.js"
-        repo="JinjiPang/jinji"
-        issue-term="pathname"
-        label="comments"
-        theme="github-light"
+<script src="https://giscus.app/client.js"
+        data-repo="yihui/jinji"
+        data-repo-id="MDEwOlJlcG9zaXRvcnkzODMxOTQ0NjI="
+        data-category="Comments"
+        data-category-id="DIC_kwDOFtcVXs4CWPYY"
+        data-mapping="pathname"
+        data-strict="1"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="preferred_color_scheme"
+        data-lang="{{ if len (findRE "^/cn/" .RelPermalink) }}zh-CN{{ else }}en{{ end }}"
+        data-loading="lazy"
         crossorigin="anonymous"
         async>
 </script>
