@@ -1,5 +1,6 @@
 {{ if not .IsSection }}
-<script src="https://giscus.app/client.js"
+<section class="comments">
+<script {{ if $.Site.BuildDrafts }}data-{{ end }}src="https://giscus.app/client.js"
         data-repo="yihui/jinji"
         data-repo-id="MDEwOlJlcG9zaXRvcnkzODMxOTQ0NjI="
         data-category="Comments"
@@ -13,6 +14,8 @@
         data-lang="{{ if len (findRE "^/cn/" .RelPermalink) }}zh-CN{{ else }}en{{ end }}"
         data-loading="lazy"
         crossorigin="anonymous"
-        async>
+        defer>
 </script>
+</section>
+<script src="https://cdn.jsdelivr.net/npm/@xiee/utils/js/comment-utils.min.js" defer></script>
 {{ end }}
