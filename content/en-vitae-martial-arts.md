@@ -33,6 +33,9 @@ slug: "en/martial arts vitae"
 
 #### Taekwondo
 
+- 1st Degree Black Belt, USA, May 2, 2023
+
+
 - 1st Grade Red Belt, USA, March 28, 2022
 
 
