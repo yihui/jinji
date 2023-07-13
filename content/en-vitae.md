@@ -102,6 +102,9 @@ slug: "en/vitae"
 
 ## Publications
 
+- [Pang, Jinji, Torey Looft, Qijing Zhang, and Orhan Sahin. 2023. "Deciphering the Association between Campylobacter Colonization and Microbiota Composition in the Intestine of Commercial Broilers" Microorganisms 11, no. 7: 1724](https://doi.org/10.3390/microorganisms11071724)
+
+
 - [Xia J, Pang J, Tang Y, Wu Z, Dai L, Singh K, Xu C, Ruddell B, Kreuder A, Xia L, Ma X, Brooks KS, Ocal MM, Sahin O, Plummer PJ, Griffith RW, Zhang Q. High Prevalence of Fluoroquinolone-Resistant Campylobacter Bacteria in Sheep and Increased Campylobacter Counts in the Bile and Gallbladders of Sheep Medicated with Tetracycline in Feed. Appl Environ Microbiol. 2019 85. 2013-2017](https://journals.asm.org/doi/full/10.1128/AEM.00008-19)
 
 - [JJ Pang, XJ Bai, SQ Chen, WY Jiang, ZX Wang, J Cao. The effect of monochromatic green light on melatonin synthesis in chick embryo. - Acta Veterinaria et Zootechnica Sinica, 2017](https://www.cabdirect.org/cabdirect/abstract/20173212597)
