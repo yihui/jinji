@@ -1,6 +1,6 @@
 ---
 author: Kimki
-date: "2021-07-05"
+date: "2023-07-13"
 title: Curriculum Vitae
 slug: "en/vitae"
 ---
