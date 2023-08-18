@@ -5,7 +5,7 @@ title: Curriculum Vitae
 slug: "en/vitae"
 ---
 
-## [Leave a comment, then click to see my CV](/pdf/CV_JinjiPang_2023_updated.pdf)
+## [Leave a comment, then click to see my CV](/pdf/CV_JinjiPang_2023.pdf)
 
 ![plates](/img/plates.png)
 
