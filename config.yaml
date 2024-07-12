@@ -44,10 +44,10 @@ menu:
       weight: 4
     - name: "R"
       url: "/en/r/"
-      weight: 5 
+      weight: 5
     - name: "VMPM & STAT"
       url: "/vmpm/"
-      weight: 6 
+      weight: 6
     - name: "中文"
       url: "/cn/"
       weight: 7
@@ -85,7 +85,7 @@ menu:
 
 params:
   description: "Welcome to Jinji's planet."
-  footer: "&copy; [Jinji](https://jinjipang.com) 2023 | [Github](https://github.com/JinjiPang) | [Twitter](https://twitter.com/PangKimki) | [Subscribe](https://jinjipang.com/index.xml)"
+  footer: "&copy; [Jinji](https://jinjipang.com) 2024 | [Github](https://github.com/JinjiPang) | [Twitter](https://twitter.com/PangKimki) | [Subscribe](https://jinjipang.com/index.xml)"
   highlightjsCDN: "//cdn.bootcss.com"
   highlightjsLang: ["r", "yaml", "tex"]
   highlightjsTheme: "github"
@@ -104,19 +104,19 @@ params:
   author:
     en: "Kimki"
     cn: "金吉"
-  
-  
+
+
 blackfriday:
     extensionsmask: ["noIntraEmphasis"]
     fractions: false
 
-  
+
 
 markup:
   goldmark:
     renderer:
       unsafe: true
-      
+
 
 
 
