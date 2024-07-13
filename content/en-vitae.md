@@ -26,7 +26,7 @@ slug: "en/vitae"
 
 ## Education Background
 
-- 2018.08 ~ 202X, Ph.D. candidate, Department of Veterinary Microbiology and Preventive Medicine; 
+- 2018.08 ~ 2023, Ph.D., Department of Veterinary Microbiology and Preventive Medicine; 
 
 - 2020.08 ~  2022.12 Master, Department of Statistics, Iowa State University
 
@@ -48,23 +48,13 @@ slug: "en/vitae"
 
 ## Honors & Awards
 
-- Graduate Student Travel Award, ISU CVM, 2021-2023
+- Iowa State University Research Excellence Award, 2023.
 
-- Professional Advancement Grants, Graduate and Professional Student Senate, 2021, 2022.
-
-- Finalist of 3MT Thesis Competition, ISU Graduate College, 2019 
+-	Lora and Russ Talbot Graduate Fellowship in Veterinary Medicine (the most outstanding Ph.D. candidate 
 
 - Outstanding Graduate of Beijing, 2018
 
 - National Scholarship, China, 2017                                                                                                         
-- 2017 Dubai Equine Scholarship, 2018                                                                                                  
-- 1st Class Scholarship for Outstanding Students, CAU (5%), 2017                                                    
-- Cultural Activity Scholarship, CAU, 2017                                                                                             
-- Beijing College Students Music Festival, Gold Award,  2016 
-
-- Merit Students, CAU (10%), 2014-2016                                                                                                 
-- Outstanding Student Leaders, CAU (5%), 2014-2016
-
 
 ## Social Activity
 
@@ -74,42 +64,20 @@ slug: "en/vitae"
 
 - League branch secretary of Class 131, Vet-Med College, CAU, 2013-2017
 
-- Team member of CVM Women's basketball team, 2014-2016
-
-- Team member of CVM Women's volleyball team, 2014-2018
-
-- Team member of CVM  pingpong team, 2015
-
-- Volunteer at Office of Academic Affairs, CVM, 08/2016-12/2016                                                  
-- Fei Yang Folk Music Club, CAU, 2013-2016   
-
-- Fengyun Union, CAU，2014-2016
-
-- Sunshine Bicycle Association of CAU, 2014-2017                                                                              
-- Border trade investigation in Zhangmu, Tibet, China，07/2014-08/2014
-
-
 
 ## Hobby
 
 - Traditional Chinese folk music
 - Chinese calligraphy
-- Martial arts: Taekwondo
 - Snowboarding and skiing
+- Badminton, climbing, yoga
 - Piano
 
 
 
 ## Publications
 
-- [Pang, Jinji, Torey Looft, Qijing Zhang, and Orhan Sahin. 2023. "Deciphering the Association between Campylobacter Colonization and Microbiota Composition in the Intestine of Commercial Broilers" Microorganisms 11, no. 7: 1724](https://doi.org/10.3390/microorganisms11071724)
-
-
-- [Xia J, Pang J, Tang Y, Wu Z, Dai L, Singh K, Xu C, Ruddell B, Kreuder A, Xia L, Ma X, Brooks KS, Ocal MM, Sahin O, Plummer PJ, Griffith RW, Zhang Q. High Prevalence of Fluoroquinolone-Resistant Campylobacter Bacteria in Sheep and Increased Campylobacter Counts in the Bile and Gallbladders of Sheep Medicated with Tetracycline in Feed. Appl Environ Microbiol. 2019 85. 2013-2017](https://journals.asm.org/doi/full/10.1128/AEM.00008-19)
-
-- [JJ Pang, XJ Bai, SQ Chen, WY Jiang, ZX Wang, J Cao. The effect of monochromatic green light on melatonin synthesis in chick embryo. - Acta Veterinaria et Zootechnica Sinica, 2017](https://www.cabdirect.org/cabdirect/abstract/20173212597)
-
-- [Co-Authored](https://www.researchgate.net/profile/Jinji-Pang) publications please check researchgate. 
+- [ResearchGate](https://www.researchgate.net/profile/Jinji-Pang) publications please check researchgate. 
 
 
 
