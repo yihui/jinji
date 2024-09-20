@@ -15,35 +15,16 @@ slug: "en/vitae"
 
 - Homepage: <https://jinjipang.com>; 
 
-- Twitter [@JinjiPang](https://twitter.com/JinjiPang).
-
-## Brief Biography
-
-- Name: Jinji Pang
-
-- English name: Kimki
-
 
 ## Education Background
 
-- 2018.08 ~ 2023, Ph.D., Department of Veterinary Microbiology and Preventive Medicine; 
+- 2018.08 ~  2023.10, Ph.D., Department of Veterinary Microbiology and Preventive Medicine; 
 
 - 2020.08 ~  2022.12 Master, Department of Statistics, Iowa State University
 
 - 2013.08 ~ 2018.06, Bachelor of Veterinary Medicine, Veterinary Medicine College, China Agricultural University
 
 - 2015.08 ~ 2016.01, exchange student, College of Veterinary Medicine, National Chung Hsing University
-
-
-## Intern
-
-- One Health Program, Iowa State University, USA, 06/2017 - 08/2017
-
-
-- Alltech-ECP Intern Program, Clonakilty Agricultural University, Ireland, 01/2017- 03/2017
- 
-
-- Delaval-ECP Summer Intern Program, Beijing & Tianjin & Shandong & Shenyang, China, 07/2016– 08/2016
 
 
 ## Honors & Awards
@@ -72,7 +53,6 @@ slug: "en/vitae"
 - Snowboarding and skiing
 - Badminton, climbing, yoga
 - Piano
-
 
 
 ## Publications
